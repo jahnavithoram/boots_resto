@@ -1,0 +1,27 @@
+ .navbar-nav > li {
+            padding-left: 80px;
+            padding-right: 80px;
+        }
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDU3AzF2bQX41DmrD4oWB442PBp3dSFDM4A&usqp=CAU");
+    background-color: lavender;
+}
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+.form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+}
+
+.carousel-inner img {
+    width: 50%;
+    height: 80%;
+    align-items:center;
+}
